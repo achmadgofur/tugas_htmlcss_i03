@@ -37,7 +37,7 @@ a {
   margin-bottom: 10px;
 }
 /* Tambahkan breakpoint max-width: 1000px */
-@media (max-width: 1000px) {
+@media (max-width: 1500px) {
 	h1{
 		color:yellow;
 		animation-name: h1;
